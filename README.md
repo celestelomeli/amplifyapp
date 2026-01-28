@@ -1,3 +1,12 @@
+# amplifyapp
+
+Starter React app used briefly while exploring AWS Amplify. Archived.
+
+---
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
